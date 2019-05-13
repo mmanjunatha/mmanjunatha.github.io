@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Info!"
+date:   2019-04-03 12:25:58 +0530
+categories: info
+---
+This blog is about MY_INFO
